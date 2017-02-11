@@ -1,5 +1,5 @@
 # !/bin/bash
-## This is a very simple shell script wich has no practical use, just for learning reasons. It checks if an username and password input matches with an available user-password .txt file.
+## This is a very simple shell script which has no practical use, just for learning reasons. It checks if an username and password input matches with an available user-password .txt file.
 clear
 echo " Welcome to SYSNET, your Service Provider"
 echo "-------------------------------------------"
